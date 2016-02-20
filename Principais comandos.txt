@@ -1,0 +1,3 @@
+Git init- Inicializa repositorio no local atual.
+
+git status  - verifica arquivos no local do repositorio.
